@@ -54,18 +54,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   box-shadow:  0px 0px 1px 1px rgba(0,0,0,0.27);
 }
 
-.profil:hover {
-  box-shadow: inset 0px 0px 0px 20px rgba(87, 85, 85, 0.27);
-  width: 40px; 
-  height: 40px;
-  border-radius: 20px;
-}
-
 .button:hover {
-  box-shadow: inset 0px 0px 0px 20px rgba(87, 85, 85, 0.27);
-  width: 40px; 
-  height: 40px;
-  border-radius: 20px;
+  /*background-color: rgb(223, 223, 223);*/
+  box-shadow: inset 0px 0px 0px 20px rgb(238, 237, 237);
+  border-radius: 100%;
 }
 
 .voicelogo {
